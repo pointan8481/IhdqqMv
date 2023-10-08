@@ -1,0 +1,11 @@
+{
+    "Iang": {
+        "code": "200",
+        "message": "ok",
+        "hongData": {
+            "xiangyin": false,
+            "online": "yes",
+            "ded": false
+        }
+    }
+}
